@@ -1,2 +1,2 @@
-# energy_systems
-Repository for energy sistems related code
+# Energy systems
+Repository containing private energy sistems related code
